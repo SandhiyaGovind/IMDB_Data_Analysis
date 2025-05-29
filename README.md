@@ -31,16 +31,16 @@ The dataset is sourced from [Kaggle's IMDb collection](https://www.kaggle.com/da
 ## 🖼️ Featured Visuals
 
 ### 🎞️ Best-Rated Movies
-![Top Movies](images/top_moviess.png)
+![Top Movies](Pictures/top_moviess.png)
 
 ### 👥 Most Featured Actors
-![Top Actors](images/top_actors.png)
+![Top Actors](Pictures/top_actors.png)
 
 ### 🎭 Ratings by Genre
-![Genre Ratings](images/genre_ratings.png)
+![Genre Ratings](Pictures/genre_ratings.png)
 
 ### 📆 Release Trend Over Time
-![Release Trend](images/release_trend.png)
+![Release Trend](Pictures/release_trend.png)
 
 ---
 
